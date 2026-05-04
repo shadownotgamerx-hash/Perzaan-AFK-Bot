@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "AirCraft01.aternos.me",
+    "port": 39265,
     "version": "1.21.1"
   },
   "position": {
